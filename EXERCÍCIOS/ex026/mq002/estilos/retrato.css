@@ -3,7 +3,5 @@
 /* Configurações aparelho em pé, em formato retrato */
 
 body {
-    background: url(../imagens/cev-portrait.jpg);
-    background-position: center bottom;
-    background-repeat: no-repeat;
+    background: url(../imagens/cev-portrait.jpg) no-repeat center bottom;
 }
